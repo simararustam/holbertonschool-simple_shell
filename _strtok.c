@@ -15,6 +15,8 @@ char **_strtok(char *str, char delim)
 	if (str == NULL)
 		return (NULL);
 
+	array = malloc(sizeof(char *) * max_tokens);
+
 	if (array == NULL)
 		return (NULL);
 
