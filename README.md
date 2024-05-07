@@ -2,7 +2,10 @@
 
 This project is a simple shell implementation in C programming language, aiming to provide a command-line interface where users can interact with the system by executing commands. It supports basic functionalities such as executing commands, handling environment variables, and managing paths.
 
+
 ![gif](media/programming.gif)
+
+
 
 ## Features
 
